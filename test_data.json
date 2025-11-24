@@ -1,0 +1,43 @@
+[
+  {
+    "question": "How many days per week can I work remotely?",
+    "expected_keywords": ["3 days", "three days"],
+    "should_answer": true
+  },
+  {
+    "question": "How long do I have to upload travel receipts after a trip?",
+    "expected_keywords": ["5 working days", "five working days"],
+    "should_answer": true
+  },
+  {
+    "question": "What should I do if my laptop is stolen?",
+    "expected_keywords": ["report", "it security", "1 hour"],
+    "should_answer": true
+  },
+  {
+    "question": "When does the probation evaluation take place for new employees?",
+    "expected_keywords": ["3 months", "three months"],
+    "should_answer": true
+  },
+  {
+    "question": "Who is the CEO of the company?",
+    "expected_keywords": [],
+    "should_answer": false
+  },
+  {
+    "question": "What is the company's dividend policy?",
+    "expected_keywords": [],
+    "should_answer": false
+  },
+  {
+  "question": "At what time should a new employee report on their first day?",
+  "expected_keywords": ["09:00", "9:00", "report to reception"],
+  "should_answer": true
+  },
+  {
+  "question": "Is using the company VPN required when working from a public place?",
+  "expected_keywords": ["vpn", "required", "public place"],
+  "should_answer": true
+  }
+
+]

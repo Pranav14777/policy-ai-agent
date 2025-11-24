@@ -1,0 +1,11 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Local vector DB and cache
+chroma_db/
+__pycache__/
+
+# Misc
+.DS_Store
+*.pyc
