@@ -52,6 +52,10 @@ policy_ai_agent/
 ```
 
 ---
+## Architecture Diagram
+
+![Architecture Diagram](assets/architecture.png)
+
 
 ## Local Setup and Run Instructions (without Docker)
 
